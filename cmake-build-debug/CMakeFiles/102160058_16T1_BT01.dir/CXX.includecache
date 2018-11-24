@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dell/CLionProjects/102160058_16T1_BT01/List.cpp
+iostream
+-
+List.h
+C:/Users/dell/CLionProjects/102160058_16T1_BT01/List.h
+
+C:/Users/dell/CLionProjects/102160058_16T1_BT01/List.h
+ostream
+-
+Sach.h
+C:/Users/dell/CLionProjects/102160058_16T1_BT01/Sach.h
+
+C:/Users/dell/CLionProjects/102160058_16T1_BT01/Sach.h
+ostream
+-
+
